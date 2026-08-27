@@ -13,8 +13,8 @@
         "backgroundColor": "#FFFFFF"
       }
     },
-    "plugins": [
-      "expo-font"
-    ]
+    "web": {
+      "bundler": "metro"
+    }
   }
 }
